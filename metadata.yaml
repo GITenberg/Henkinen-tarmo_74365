@@ -1,0 +1,42 @@
+_repo: Henkinen-tarmo_74365
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Hollo, J. A. (Juho Aukusti)
+    alias: Hollo, Juho Aukusti
+    birthdate: 1885
+    deathdate: 1967
+    gutenberg_agent_id: '47352'
+    url: http://www.gutenberg.org/2009/agents/47352
+    wikipedia: https://fi.wikipedia.org/wiki/J._A._Hollo
+creator:
+  author:
+    agent_name: Bergson, Henri
+    aliases:
+    - Bergson, Henri Louis
+    - Bergson, H. (Henri)
+    birthdate: 1859
+    deathdate: 1941
+    gutenberg_agent_id: '1462'
+    url: http://www.gutenberg.org/2009/agents/1462
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Henri_Bergson
+    - https://fr.wikipedia.org/wiki/Henri_Bergson
+description: ''
+gutenberg_issued: '2024-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74365'
+language: fi
+pgterms:marc905: 20240819011159bergson
+pgterms:marc906: '1958'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aPorvoo :$bWSOY, $c1958.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Henkinen tarmo
+url: http://www.gutenberg.org/ebooks/74365
